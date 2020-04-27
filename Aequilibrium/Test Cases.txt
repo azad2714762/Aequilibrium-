@@ -1,0 +1,20 @@
+Test Cases: 
+
+1.	Verify the action when user login with a valid username and valid password.
+2.	Verify the action when user login with a valid username and invalid password.
+3.	Verify the action when user login with an invalid username and valid password.
+4.	Verify the action when user login without providing a username and a password (Keeping both fields empty).
+5.	Verify the warning message for invalid login.
+6.	Verify the objects (text, color, button etc.) are matching with the requirement.
+7.	Verify the time to taken to log in with a valid credential.
+8.	Verify the UI alignment and login functionality of the login with different browsers.
+9.	Verify the data in password field are displayed in masked format or not.
+10.	Verify the action when user enters the character more than the range for username and password.
+11.	Verify the action when user login with a different credential from browser.
+12.	Verify the action when user login from a different browser at the same time.
+13.	 Verify the time out functionality for the login session.
+14.	Verify the action when user copy the URL after login and paste in a different browser.
+15.	Verify the action when user logout and click on the back button.
+16.	Verify the total number of unsuccessful attempts.
+17.	Verify the action to login with old password after changing the password.
+18.	Verify the login functionality with turning off/on of the cookies.
